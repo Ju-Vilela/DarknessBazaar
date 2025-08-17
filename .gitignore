@@ -1,0 +1,23 @@
+# Build Folders
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+*.vscode/
+
+# Database Project
+*.dbmdl
+*.publish.xml
+*.jfm
+*.dbproj.user
+
+# Rider
+.idea/
+
+# ASP.NET
+appsettings.Development.json
